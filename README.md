@@ -5,7 +5,7 @@
 [image3]: https://github.com/jiewwantan/StarTrader/blob/master/test_result/portfolios_return.png "Trading strategy performance returns comparison"
 [image4]: https://github.com/jiewwantan/StarTrader/blob/master/test_result/portfolios_risk.png "Trading strategy performance risk comparison"
 
-# **Quantitative Trading with Deep Reinforcement Learning**
+# **StarTrader: Quantitative Trading with Deep Reinforcement Learning**
 
 ### Introduction
 
